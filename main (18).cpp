@@ -59,7 +59,7 @@ int main() {
     cout << "Time taken for sunlight to reach Earth: " << minutes << " minutes and " << seconds << " seconds" <<endl;
     cout << "Total travel time in seconds: " << totalSeconds << " seconds" << endl;
     cout << "----------------------------------------" << endl;
-   
+   //2dist
    cout<<"Distance from earth to the sun"<<endl;
    cout << "Approximate Distance in Kilometers: " << distanceKm << " km" <<endl;
     cout << "Approximate Distance in Miles:      " << distanceMiles << " miles" << endl;
