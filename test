@@ -1,0 +1,9 @@
+Case   Input          Expected Output Status              Actual  Output Status
+1        run            invalid                                invalid                    idk
+1        run                  invalid                           invalid                  missing ;
+3       run                invalid                              invalid                    
+4              run              invalid                        invalid
+5          run                invalid                          invalid
+6        run                  invalid                          invalid                found out i needed to put constant in front of light
+7    run                                invalid                  invalid                    i put a comma in speed of light
+8      run                                  invalid                    invalid                  no equal sign in the timer
