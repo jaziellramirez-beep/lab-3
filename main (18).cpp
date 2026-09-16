@@ -1,18 +1,20 @@
-/******************************************************************************
-
-                              Online C++ Compiler.
-               Code, Compile, Run and Debug C++ program online.
-Write your code in this editor and press "Run" button to compile and execute it.
-
-*******************************************************************************/
+////////////////////////////////////////////////////////////////
+//
+// Name: Write your name
+// Date: When did you finish?
+// Class: CSCI 1470.04
+// Semester: Fall 2026
+// Instructor: Dr. Jonatan Reyes
+//
+// Program Description: Brief description
+////////////////////////////////////////////////////////////////
+#include <iostream>
+using namespace std;
 
 //calculates the approximate distance from the Earth to the Sun
 // amount of time sunlight takes to reach Earth. 
 
-#include <iostream>
-using namespace std;
-
-double convertToSeconds(int minutes, int seconds);
+double convertToSeconds(double minutes, double seconds);
 double calculateDistance(double speed, double timeInSeconds);
 double convertKmToMiles(double kilometers);
 
@@ -31,8 +33,12 @@ double convertKmToMiles(double kilometers) {
     const double KM_TO_MILES_CONVERSION = 0.621371;
     return kilometers * KM_TO_MILES_CONVERSION;
 }
+
+
+
+
 int main() {
-    // 1. Store the speed of light in a variable (km/s)
+    // 1. Store the speed of light 
     const double SPEED_OF_LIGHT = 299792.0;
     
     // Sunlight travel time: 8 minutes and 19 seconds
