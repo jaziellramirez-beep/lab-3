@@ -43,10 +43,10 @@ int main() {
     double totalSeconds = convertToSeconds( minutes, seconds);
     
     // 3. Call function to calculate the distance in kilometers
-    double distanceKm = calculateDistance(SPEED_OF_LIGHT, totalSeconds);
+    int distanceKm = calculateDistance(SPEED_OF_LIGHT, totalSeconds);
     
     // 4. Call function to convert the distance to miles
-    double distanceMiles = convertKmToMiles(distanceKm);
+    int distanceMiles = convertKmToMiles(distanceKm);
     
     // 5. Display the results clearly
     cout << "--- Time for sunlight to hit earth ---" << endl;
