@@ -2,7 +2,7 @@ Case   Input          Expected Output Status              Actual  Output Status
 1        run            invalid                                invalid                    idk
 2        run            invalid                                invalid                  missing ;
 3       run             invalid                                invalid                 missing ;
-4       run             invalid                                invalid                  missing ;
+4       run             invalid                                invalid                 needs cons
 5       run             invalid                                invalid                i put a double instead of int in travel time
 6       run             invalid                                invalid               found out i needed to put constant in front of light
 7       run            invalid                                 invalid               i put a comma in speed of light
