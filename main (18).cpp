@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////
 //
 // Name: Write your name
-// Date: When did you finish?
+// Date: September 19,2026
 // Class: CSCI 1470.04
 // Semester: Fall 2026
 // Instructor: Dr. Jonatan Reyes
