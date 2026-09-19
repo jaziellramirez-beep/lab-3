@@ -1,9 +1,43 @@
 Case   Input          Expected Output Status              Actual  Output Status
 1        run            invalid                                invalid                    idk
-1        run                  invalid                           invalid                  missing ;
+2        run                  invalid                           invalid                  missing ;
 3       run                invalid                              invalid                    
 4              run              invalid                        invalid
 5          run                invalid                          invalid
 6        run                  invalid                          invalid                found out i needed to put constant in front of light
 7    run                                invalid                  invalid                    i put a comma in speed of light
 8      run                                  invalid                    invalid                  no equal sign in the timer
+9       run           invalid                                invalid          
+10  run        invalid                                invalid
+11    run        invalid                                invalid
+12    run      invalid                                invalid
+13    run      invalid                                invalid
+14  run      invalid                                invalid
+15  run       invalid                                invalid
+16  run      invalid                                invalid
+17  run      invalid                                invalid
+18  run      invalid                                invalid
+19   run    invalid                                invalid
+20  run      invalid                                invalid
+21  run      invalid                                invalid
+22  run      invalid                                invalid
+23  run      invalid                                invalid
+24  run      invalid                                invalid
+25  run      invalid                                invalid
+26  run      invalid                                invalid
+27  run      invalid                                invalid
+28  run      invalid                                invalid
+29  run      invalid                                invalid
+
+
+
+
+
+
+
+
+
+
+
+
+
