@@ -45,16 +45,16 @@ int main() {
     int minutes = 8;
     int seconds = 19;
     
-    // 2. Call function to convert the travel time to seconds
+    // Call function to convert the travel time to seconds
     double totalSeconds = convertToSeconds( minutes, seconds);
     
-    // 3. Call function to calculate the distance in kilometers
+    // Call function to calculate the distance in kilometers
     int distanceKm = calculateDistance(SPEED_OF_LIGHT, totalSeconds);
     
-    // 4. Call function to convert the distance to miles
+    //  Call function to convert the distance to miles
     int distanceMiles = convertKmToMiles(distanceKm);
     
-    // 5. Display the results clearly
+    //  Display results neatly
     cout << "--- Time for sunlight to hit earth ---" << endl;
     cout << "Time taken for sunlight to reach Earth: " << minutes << " minutes and " << seconds << " seconds" <<endl;
     cout << "Total travel time in seconds: " << totalSeconds << " seconds" << endl;
