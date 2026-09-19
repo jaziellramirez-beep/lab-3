@@ -6,7 +6,7 @@
 // Semester: Fall 2026
 // Instructor: Dr. Jonatan Reyes
 //
-// Program Description: Brief description
+// Program Description: tells you the time and distance for the earth and sun
 ////////////////////////////////////////////////////////////////
 #include <iostream>
 using namespace std;
